@@ -1,0 +1,24 @@
+{
+  "updatedAt": "2026-05-07T00:00:00Z",
+  "validation": "Dati raccolti solo da ministeri della salute, OMS/PAHO e bollettini epidemiologici ufficiali.",
+  "cases": [
+    {
+      "id": "cl-aysen-2026-001",
+      "location": "Aysén",
+      "country": "Cile",
+      "date": "2026-04-29",
+      "status": "Confermato",
+      "source": "Ministerio de Salud de Chile",
+      "coordinates": [-45.5752, -72.0662]
+    },
+    {
+      "id": "ar-rionegro-2026-002",
+      "location": "San Carlos de Bariloche",
+      "country": "Argentina",
+      "date": "2026-04-18",
+      "status": "Confermato",
+      "source": "Ministerio de Salud de la Nación Argentina",
+      "coordinates": [-41.1335, -71.3103]
+    }
+  ]
+}
